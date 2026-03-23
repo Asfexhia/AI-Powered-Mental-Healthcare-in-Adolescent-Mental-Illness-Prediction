@@ -1,0 +1,1001 @@
+﻿id,true_label,primary_pred,all_preds,rationale,raw_snippet,Accuracy
+5344,5,1,1,Patient has depressive episodes with sadness， loss of interest， fatigue， sleep disturbance， poor appetite， weight change， concentration problems， suicidal ideation， and low self-esteem.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7444,1,-1,[],,{,FALSE
+1731,0,0,0,Possible PTSD.,"{“predicted_labels”: [[0]], “is_comorbidity”: fals",TRUE
+8719,2,1,1,,"{'predicted_labels': [1],",FALSE
+4521,2,1,1;0,,"{'predicted_labels': [1, 0],",FALSE
+7453,1,1,1,Depressive disorder with intermittent depressive episodes manifested by feeling of guilt， suicidal thoughts or attempts， loss of pleasure， irritability， poor concentration， fatigue， changes in appetite and sleep pattern， low self-esteem and worthlessness.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+576,4,1,1,The patient describes feeling depressed and sad.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7428,1,6,6,The patient is describing a symptom that could be related to several disorders including anxiety disorder， depression， eating disorder or video game addiction.,"{'predicted_labels': [6],'is_comorbidity': false,'",FALSE
+5577,1,-1,[],,{,FALSE
+439,4,1,1,User mentioned feeling depressed about not being able to stop using laxatives for weight loss.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2750,2,0,0;2,Patient describes anxiety symptoms as well as attention deficit hyperactivity disorder.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+5730,1,-1,[],,{,FALSE
+5271,5,-1,[],,{,FALSE
+5652,1,6,6,Anhedonic depression is often associated with anxiety.,"{“predicted_labels” : [6], “is_comorbidity”: false",FALSE
+3999,1,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+4556,2,3,3,,"{'predicted_labels': [3],",FALSE
+582,4,1,1,The patient is reporting intentional self-starvation.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+6289,5,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+7050,1,2,2;3,,"{'predicted_labels': [2, 3],",FALSE
+4894,0,0,0;5,The patient describes experiencing depression， anxiety， and video game addiction.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",TRUE
+8697,2,1,1,,"{'predicted_labels': [1],",FALSE
+2249,3,-1,[],,{,FALSE
+4639,2,1,1,Patient describes feeling depressed.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7191,1,1,1,patient describes feeling of depression， hopelessness， and suicidal ideation.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+5872,1,0,0,,"{'predicted_labels': [0],",FALSE
+6330,4,0,0,The patient suffers from anxiety attacks.,"{'predicted\_labels': ['Anxiety'], 'is\_comorbidit",FALSE
+1963,0,-1,[],,{,FALSE
+8242,2,1,1,The patient describes feeling depressed， sad， crying often， not wanting to do anything， hard time concentrating， and thoughts of ending their life.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+6589,4,1,1,Anhedonia is a symptom of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8846,0,0,0,The patient describes feeling nervous or anxious.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",TRUE
+321,4,1,1,,"{'predicted_labels': [1],",FALSE
+2678,2,1,1,,"{``'predicted_labels':[1,'4'],",FALSE
+6630,3,0,0,,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+9885,5,6,6,The patient presents with symptoms consistent with video game addiction.,"{'predicted\_labels': [6], 'is\_comorbidity': fals",FALSE
+9285,5,1,1,The patient describes feeling sad， crying often， loss of interest， sleep disturbances， fatigue， appetite changes， concentration problems， suicidal ideation， fearing for one’s own safety.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+3337,5,0,0,,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+5459,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+251,4,0,0;1,Text analysis indicated anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+3973,0,1,1,,"{``'predicted_labels': [1],`` ``'is_comorbidity': ",FALSE
+7281,1,1,1,Anorexia Nervosa with obsessive-compulsive tendencies.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",TRUE
+6773,1,1,1,The patient describes symptoms of depression such as sadness， fear of death， stress， and suicidal thoughts.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+35,2,6,6,The patient describes feeling easily distracted by technology such as computers. This symptomatology may indicate video game addiction.,"{'predicted\_labels': [6],'is\_comorbidity': false",FALSE
+8361,2,6,6,,"{'predicted_labels': [6],",FALSE
+1513,0,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",TRUE
+8579,2,1,1,Low threshold for tiredness and brain fog.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+39,2,-1,[],,{,FALSE
+4755,2,-1,[],,{,FALSE
+3465,5,-1,[],,{,FALSE
+1760,0,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false}",FALSE
+2304,5,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+3723,5,1,1,Sustained sadness， hopelessness， low self-esteem， difficulty concentrating， fatigue or lack of energy， sleep disturbance， and appetite changes.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5538,1,-1,[],,{,FALSE
+4992,0,-1,[],,{,FALSE
+8126,2,1,1,,"{'predicted_labels': [1],",FALSE
+3032,5,1,1;3;5,,"{'predicted_labels': [1, 3, 5],",FALSE
+7937,2,1,1,,"{ 'predicted\_labels': [1],",FALSE
+3039,5,1,1;0;0;0;0;0,,"{“predicted\_labels”: [1, 0, 0, 0, 0, 0], “is\_com",FALSE
+6824,0,3,3,,"{'predicted\_labels': [3], 'is\_comorbidity': fals",FALSE
+2545,2,1,1,Excessive sadness or depression-like state.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2592,0,1,1,Sleep disturbance is one of the common features of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1188,4,1,1,The patient describes feeling depressed about their body image due to weight gain.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5365,5,6,6,Excessive use of video games is associated with depression.,"{“predicted_labels”: [6],“is_comorbidity”: false,“",FALSE
+6076,3,-1,[],,{,FALSE
+107,1,1,1,,"{'predicted_labels': [1],",TRUE
+1315,4,1,1,Low energy intake due to starvation leading to depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+4751,2,6,6,The patient is asking his mother for an appointment because he has been feeling down lately.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+2753,2,-1,[],,{,FALSE
+9752,3,1,1,,"{'predicted_labels': [1],",FALSE
+8852,0,1,1;3,,"{ 'predicted\_labels': [1, 3],",FALSE
+2876,5,6,6,The patient appears to be experiencing anxiety due to his or her concerns about COVID-19.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+7073,1,1,1,,"{'predicted_labels': [1],",TRUE
+799,4,-1,[],,{,FALSE
+3570,5,6,6,Seeking information from people with video game addiction.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+2894,5,1,1,Patient complains about feeling down and worthless for a long time.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+2927,5,1,1,The patient describes feeling irritable， worthless， depressed， suicidal， and having trouble concentrating.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7445,1,6,6,,"{'predicted_labels': [6],",FALSE
+971,4,0,0,Anxiousness was mentioned as a symptom.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+8344,2,1,1,,"{'predicted_labels': [1],",FALSE
+8574,2,1,1,ADHD is the primary diagnosis.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2020,0,0,0,,"{ 'predicted\_labels': [0],",TRUE
+9053,5,3,3,The patient describes experiencing intrusive thoughts that cause distress and interfere with daily functioning.,"{“predicted\_labels”: [3], “is\_comorbidity”: fals",FALSE
+952,4,1,1,Depression was identified as the primary disorder.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5358,5,1,1,Depressive disorder is associated with sleep disturbance.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3857,5,1,1,Patient presents with symptoms of depression (loss of interest， difficulty concentrating， fatigue， sleep disturbance) and suicidal ideation.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5860,1,-1,[],,{,FALSE
+3145,5,1,1,patient talks about feeling down， sad， depressed， suicidal thoughts.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3305,5,2,2,Hyperactivity and impulsivity were explicitly mentioned.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+3006,5,1,1,Patient describes feeling of anxiety as well as thoughts of self-harm.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+7436,1,-1,[],,{,FALSE
+8876,2,0,0;1,Explicitly mentioned symptoms of anxiety (fear) and depression (sadness),"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+8608,2,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+7379,1,-1,[],,{,FALSE
+9237,5,-1,[],,{,FALSE
+1056,4,1,1,,"{ 'predicted\_labels': [1],",FALSE
+3154,5,1,1,,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+3787,5,-1,[],,{,FALSE
+5400,1,-1,[],,{,FALSE
+6452,5,1,1,,"{'predicted_labels': [1],",FALSE
+7538,3,2,2;3;6,,"{'predicted_labels': [2, 3, 6],",FALSE
+8761,2,-1,[],,{,FALSE
+764,4,0,0;1,Microwaving food can cause anxiety due to fear of it burning or exploding， while depression may be caused by a lack of pleasure from eating due to the monotony of only being able to eat prepackaged foods.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+5018,0,-1,[],,{,FALSE
+4902,0,1,1;6,,"{'predicted_labels': [1, 6],",FALSE
+6720,1,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+6842,1,6,6,The patient talks about escaping her father and being afraid of the future due to his actions.,"{'predicted_labels':[6],'is_comorbidity':true,'rat",FALSE
+2165,1,-1,[],,{,FALSE
+1862,0,0,0,,"{'predicted_labels': ['Anxiety'],",TRUE
+9974,0,-1,[],,{,FALSE
+8881,2,1,1,,"{'predicted_labels': [1],",FALSE
+2340,5,1,1,,"{  'predicted\_labels': [1],  'is\_comorbidity': f",FALSE
+7712,3,1,1;0;0;0;0;0,,"{'predicted_labels': [1, 0, 0, 0, 0, 0],",FALSE
+5441,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+4003,2,0,0;3,,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+1123,4,-1,[],,{,FALSE
+5428,1,1,1,Sleeping too much or not enough is common among people with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+4049,3,1,1,,"{'predicted_labels': [1],",FALSE
+9579,2,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+765,4,1,1,,"{'predicted_labels': [1],",FALSE
+2344,5,1,1,Patient presents with depressive symptoms such as sadness， anxiety， guilt， low self-esteem， and difficulty concentrating.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+4071,2,-1,[],,{,FALSE
+5076,0,-1,[],,{,FALSE
+4216,2,0,0,Shortness of breath is not a symptom for anxiety.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+7377,1,3,3,Patient describes feeling of being overwhelmed with thoughts that he cannot get rid of.,"{'predicted_labels': [3], 'is_comorbidity': false,",FALSE
+5969,1,0,0;3,,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+3350,5,6,6,The patient describes symptoms of video game addiction.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+4694,2,-1,[],,{,FALSE
+3399,5,0,0,,"{'predicted_labels': [0],",FALSE
+4081,2,1,1,Depressive thoughts about forgetting to bring one’s own wallet when going out.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6987,1,1,1,The patient describes feeling sad for no reason.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+1224,4,1,1,,"{ 'predicted\_labels': [1],",FALSE
+6291,5,-1,[],,{,FALSE
+3122,5,1,1,Depressive disorder is characterized by sadness or loss of interest or pleasure， accompanied by several other symptoms such as changes in appetite， sleep patterns， fatigue， difficulty concentrating， feelings of worthlessness and guilt， and thoughts of suicide.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+510,4,-1,[],,{,FALSE
+6429,5,0,0;1,Explicitly stated that both anxiety and depression are present.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+8180,2,-1,[],,{,FALSE
+5028,0,-1,[],,{,FALSE
+96,1,2,2;3,Hyperactivity-impulsivity and obsessive compulsiveness.,"{'predicted_labels': ['ADHD', 'OCD'], 'is_comorbid",FALSE
+4789,0,2,2;3,Hyperactivity， Impulsivity， Risk taking behavior.,"{'predicted_labels': ['ADHD', 'OCD'], 'is_comorbid",FALSE
+1512,0,1,1;2,Patient presents with both depression and anxiety.,"{'predicted_labels': [1, 2], 'is_comorbidity': fal",FALSE
+8043,2,3,3,Patient describes feeling anxious about not having any friends to hang out with.,"{'predicted_labels': [3], 'is_comorbidity': false,",FALSE
+119,1,1,1,,"{'predicted_labels': [1],",TRUE
+9043,5,0,0,Enjoyed it. Even this scene.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+6516,5,1,1,Patient describes feeling sad， worthless， and hopeless for over six months with no energy to complete daily tasks.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+33,0,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",TRUE
+6245,5,0,0,Anxious facial expression， excessive blinking， fidgeting with hands.,"{“predicted_labels”: [0], “is_comorbidity”: false,",FALSE
+9683,1,-1,[],,{,FALSE
+8979,1,1,1,,"{'predicted_labels': [1],",TRUE
+1068,4,1,1,,"{'predicted_labels': [1],",FALSE
+1347,3,5,5,,"{'predicted_labels': [5],",FALSE
+6045,3,0,0;2,,"{'predicted_labels': ['Anxiety', 'ADHD'],",FALSE
+6004,3,-1,[],,{,FALSE
+9142,5,-1,[],,{,FALSE
+3817,5,0,0;1,Patient presents with symptoms of both anxiety and depression.,"{'predicted_labels': ['0', '1'], 'is_comorbidity':",FALSE
+9748,3,0,0;3,,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+5268,5,1,1,Patient describes feeling sad， crying easily， loss of interest， changes in sleep patterns， fatigue， worthlessness， and suicidal thoughts.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6896,1,-1,[],,{,FALSE
+5308,5,3,3,Oppositional Defiant Disorder (ODD) is characterized by negative， hostile， or defiant behavior towards authority figures.,"{“predicted_labels”: [3], “is_comorbidity”: false,",FALSE
+31,1,1,1,The patient describes feeling depressed and sad without pleasure or interest in anything for at least two weeks.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+6699,1,1,1,Patient describes feeling overwhelmed by thoughts of suicide.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",TRUE
+4386,2,1,1,Mild hoarding is often associated with depression.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+29,1,-1,[],,{,FALSE
+4202,0,1,1,Patient is describing symptoms of depression (sadness， loss of energy or interest， feelings of worthlessness). No other disorders have been identified.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7506,3,1,1,Patient describes feeling depressed and hopeless.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+735,4,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+2067,0,-1,[],,{,FALSE
+106,1,1,1,Depression is caused by low levels of neurotransmitters such as serotonin.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+9357,5,1,1,,"{'predicted_labels': ['Depression'],",FALSE
+8893,2,1,1,Insomnia is a symptom of depression.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+8068,2,-1,[],,{,FALSE
+2232,3,1,1,The patient describes obsessive thoughts and compulsions that indicate depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+993,4,1,1,Patient describes strict rules around food intake that align with the dietary restrictions associated with orthorexic eating habits.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+9411,2,-1,[],,{,FALSE
+7331,1,1,1,,"{'predicted_labels': [1],",TRUE
+6582,4,1,1,The patient describes feeling depressed and sad.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+360,4,1,1,The patient describes recurring nightmares involving binging behaviour， which is consistent with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+304,4,0,0,,"{'predicted_labels': [0],",FALSE
+2627,2,-1,[],,{,FALSE
+8964,1,0,0,Severe anxiety is often associated with depression.,"{“predicted_labels”: [0], “is_comorbidity”: false,",FALSE
+4513,2,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+5909,1,-1,[],,{,FALSE
+7116,1,1,1,,"{``'predicted_labels': [1], 'is_comorbidity': fals",TRUE
+3100,5,-1,[],,{,FALSE
+5702,1,1,1,Anorexic behaviors were mentioned by the user.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",TRUE
+3898,1,1,1,Depressive disorder is the result of interaction between genetic factors， environmental factors， and personal life events.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+7828,2,-1,[],,{,FALSE
+4797,0,-1,[],,{,FALSE
+621,4,3,3,,"{'predicted_labels': [3],",FALSE
+7234,1,-1,[],,{,FALSE
+2498,2,-1,[],,{,FALSE
+713,4,6,6,The patient may be experiencing anxiety due to his video game addiction.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+8402,2,0,0;3,,"{``{“predicted_labels”: [0, 3], “is_comorbidity”: ",FALSE
+2855,5,-1,[],,{,FALSE
+4269,2,1,1,Patient describes feeling of unfinished sentences while writing as well as difficulty reading.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2908,5,-1,[],,{,FALSE
+4934,0,0,0;1,I don’t live in Australia but we do have self-checkout machines and we also don’t use plastic bags anymore unless you need one.,"{'predicted_labels':[0,'1'],'is_comorbidity':true,",TRUE
+4516,2,6,6,The patient describes a single condition (video game addiction) that does not fall into any of the five categories specified.,"{'predicted\_labels': [6],'is\_comorbidity': false",FALSE
+1261,4,1,1;2,,"{``'predicted_labels':[1,2],````'is_comorbidity':t",FALSE
+3160,5,-1,[],,{,FALSE
+970,4,0,0;1,user mentioned feeling depressed due to anxiety about being banned from the server.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+3912,0,-1,[],,{,FALSE
+5197,5,1,1,,"{'predicted_labels': [1],",FALSE
+8845,0,0,0,Patient presents anxiety as main symptom.,"{'predicted\_labels':[0],'is\_comorbidity':true,'r",TRUE
+259,4,1,1,Patient describes feeling depressed and hopeless.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3790,5,3,3,The user describes experiencing anxiety while playing video games.,"{'predicted_labels': [3],'is_comorbidity': false, ",FALSE
+9767,3,3,3;0,Eyes rolling back can be due to panic attacks or dissociative episodes.,"{'predicted_labels': ['OCD', 'Anxiety'], 'is_comor",TRUE
+487,4,-1,[],,{,FALSE
+8689,2,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+518,4,1,1;3,Diarrhea is one of the main symptoms of irritable bowel syndrome (IBS)， which can be associated with depression.,"{'predicted_labels': [1, 3], 'is_comorbidity': fal",FALSE
+7847,1,2,2,Hyperactivity was mentioned.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+311,4,4,4,The patient is asking about comorbidities.,"{“predicted\_labels”: [4], “is\_comorbidity”: fals",TRUE
+3231,5,1,1,,"{'predicted_labels':[1,'3','5'],",FALSE
+4794,0,-1,[],,{,FALSE
+7456,1,2,2,,"{'predicted_labels': ['ADHD'],",FALSE
+9782,5,-1,[],,{,FALSE
+4626,2,-1,[],,{,FALSE
+8075,2,1,1,ADHD,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8077,2,0,0;5,Explicitly stated symptoms of anxiety and video game addiction.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+6789,1,-1,[],,{,FALSE
+4582,2,0,0,,"{'predicted_labels': [0],",FALSE
+2737,2,-1,[],,{,FALSE
+8625,2,-1,[],,{,FALSE
+6260,5,1,1,The patient describes feeling depressed and sad.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+7794,1,3,3,Excessive hand washing and ordering of objects in a specific order,"{'predicted_labels': [3], 'is_comorbidity': false,",FALSE
+1247,4,3,3,Anorexic behaviors were mentioned by user.,"{'predicted_labels': [3],'is_comorbidity': false,'",FALSE
+7244,1,1,1,Mom is saying things like ‘I hate my job’ or ‘I wish I was dead’. She has been doing this since I was about 8 years old.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+4194,1,1,1,Severe depression with suicidal ideation.,"{'predicted\_labels': [1],“is\_comorbidity”: false",TRUE
+7999,2,3,3;5,,"{'predicted_labels': [3, 5],",FALSE
+7376,1,-1,[],,{,FALSE
+3434,5,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7834,2,0,0,,"{'predicted\_labels': ['Anxiety'],",FALSE
+958,4,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+416,4,1,1;3,,"{'predicted_labels': [1, 3],",FALSE
+9925,5,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+6726,2,1,1,,"{'predicted_labels': [1],",FALSE
+4381,2,-1,[],,{,FALSE
+7582,3,1,1,,"{'predicted_labels': [1],",FALSE
+1112,4,1,1,Excessive crying， sadness， loss of interest， fatigue， sleep disturbance， decreased appetite.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+2688,2,-1,[],,{,FALSE
+8309,2,-1,[],,{,FALSE
+9564,1,1,1,,"{'predicted_labels': [1],",TRUE
+9949,4,1,1;6,,"{'predicted_labels':[1, 6],",FALSE
+3410,5,2,2,The patient describes experiencing anxiety and depression.,"{“predicted_labels”: [2], “is_comorbidity”: false,",FALSE
+80,1,0,0;5,Explicitly mentioned symptoms of anxiety and compulsive behavior associated with video game addiction.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+8362,2,1,1,Patient describes experiencing difficulty with concentration and focus.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1373,3,6,6,The patient is describing symptoms of compulsive sexual behavior disorder.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+1509,3,-1,[],,{,FALSE
+7515,3,1,1,,"{'predicted_labels': [1],",FALSE
+3070,5,0,0;2,Explicitly identified by symptoms of anxiety and inattention.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+3015,5,-1,[],,{,FALSE
+9636,2,1,1,Lack of motivation or drive， extreme depression， cannot commit to any one thing for very long.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7820,2,-1,[],,{,FALSE
+92,0,1,1,,"{'predicted_labels': [1],",FALSE
+9392,5,-1,[],,{,FALSE
+8048,2,1,1;3,,"{'predicted_labels': [1, 3],",FALSE
+4442,2,2,2,ADHD was explicitly mentioned by the author.,"{'predicted_labels': [2], 'is_comorbidity': false,",TRUE
+7600,3,-1,[],,{,FALSE
+3834,5,1,1;3,,"{ 'predicted\_labels': [1, 3],",FALSE
+9700,1,6,6,,"{'predicted_labels': [6],",FALSE
+4321,2,-1,[],,{,FALSE
+3393,5,-1,[],,{,FALSE
+4750,2,1,1,,"{'predicted_labels': [1],",FALSE
+8248,2,1,1,,"{ 'predicted\_labels': [1],",FALSE
+9189,5,0,0;3,#phonetic_crimes is about the connection between phobia and paranoia.,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+2360,5,-1,[],,{,FALSE
+1147,4,-1,[],,{,FALSE
+5664,1,6,6,The patient describes experiencing anxiety during times of stress.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+6975,1,1,1,Patient describes feeling of anxiety and depression.,"{'predicted_labels': [1],'is_comorbidity': false,'",TRUE
+7769,3,1,1,Rumination is the main symptom.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3662,5,-1,[],,{,FALSE
+1562,0,-1,[],,{,FALSE
+4112,2,-1,[],,{,FALSE
+9048,5,1,1,The content describes depressive thoughts and feelings such as sadness， hopelessness， worthlessness， and helplessness.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+6253,5,6,6,The patient describes watching a TV show with their spouse， but they did not specify which one.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+8536,2,0,0,The patient exhibited signs of anxiety such as restlessness， difficulty concentrating， muscle tension， irritability， and excessive unease.,"{“predicted_labels”: [0], “is_comorbidity”: false,",FALSE
+794,4,1,1,,"{ 'predicted\_labels': [1],",FALSE
+5852,1,-1,[],,{,FALSE
+7084,1,-1,[],,{,FALSE
+1593,0,2,2,Hyperactivity and impulsivity.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+7416,1,1,1,,"{'predicted_labels': [1],",TRUE
+5265,5,1,1,Well usually they have good stuff， but high Hell in particular was short and boring.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+4645,2,-1,[],,{,FALSE
+88,1,1,1,Patient describes accepting their depression and not fighting it.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+7656,3,1,1,Patient complains of feeling down for more than two weeks without any significant life events to explain it.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8611,2,-1,[],,{,FALSE
+9444,0,0,0;1,Excessive worrying about everyday things.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",TRUE
+6752,2,-1,[],,The patient describes their experience with langua,FALSE
+3501,5,-1,[],,{,FALSE
+2233,3,-1,[],,{,FALSE
+2802,5,-1,[],,{,FALSE
+4423,2,1,1,,"{'predicted_labels': [1],",FALSE
+8160,2,-1,[],,{,FALSE
+8185,2,2,2;5,The patient describes experiencing compulsive urges to play video games that interfere with their daily activities and relationships.,"{“predicted_labels”: [2, 5],“is_comorbidity”: fals",TRUE
+7342,1,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+2147,0,-1,[],,{,FALSE
+6597,4,-1,[],,{,FALSE
+8161,2,-1,[],,{,FALSE
+9600,2,-1,[],,{,FALSE
+5950,1,-1,[],,{,FALSE
+1494,3,0,0,The patient describes feeling anxious about someone who was being mean to him.,"{'predicted\_labels': [0], 'is\_comorbidity': fals",FALSE
+6250,5,0,0;2,Patient describes feeling anxious during schoolwork. Patient also mentions that they have difficulty focusing.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+7092,1,-1,[],,{,FALSE
+1408,3,-1,[],,{,FALSE
+6689,1,1,1;2,,"{'predicted_labels': [1, 2],",TRUE
+3400,5,-1,[],,{,FALSE
+108,1,-1,[],,{,FALSE
+7793,1,-1,[],,{,FALSE
+8480,2,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+9947,4,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+1090,4,0,0;3,Explosive anger and irritability， excessive worrying about contamination， difficulty concentrating due to intrusive thoughts.,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+4716,2,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+9738,3,1,1,The patient suffers from obsessive-compulsive disorder.,"{“predicted_labels” : [1], “is_comorbidity”: false",FALSE
+8141,2,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+9398,5,2,2,,"{'predicted\_labels': [2],",FALSE
+4975,0,-1,[],,{,FALSE
+623,4,-1,[],,{,FALSE
+8621,2,-1,[],,{,FALSE
+4812,0,-1,[],,{,FALSE
+6551,5,-1,[],,{,FALSE
+7528,3,-1,[],,{,FALSE
+5794,1,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+7435,1,-1,[],,{,FALSE
+4217,4,3,3;5,,"{'predicted_labels':[3, 5],",FALSE
+6204,3,1,1,Patient presents with symptoms of depression such as sadness， loss of interest， feelings of worthlessness， and suicidal thoughts.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5382,5,-1,[],,{,FALSE
+5740,1,-1,[],,{,FALSE
+6825,1,2,2;4,,"{'predicted_labels': [2, 4],",FALSE
+4130,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+8166,2,-1,[],,{,FALSE
+6264,5,1,1,Predicted label is depression.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+4720,2,-1,[],,{,FALSE
+1650,0,1,1,The patient describes feeling tired all day， crying more than usual， difficulty concentrating， sleeping problems， loss of appetite， and suicidal thoughts.,"{'predicted_labels': ['Depression'], 'is_comorbidi",FALSE
+4140,2,-1,[],,{,FALSE
+1617,0,-1,[],,{,FALSE
+2029,0,0,0,,"{``'predicted_labels':[0,'4'],",TRUE
+6492,5,-1,[],,{,FALSE
+4574,2,-1,[],,{,FALSE
+3992,1,6,6,,"{'predicted_labels': [6],",FALSE
+5998,3,0,0,,"{'predicted_labels': [0],",FALSE
+6148,3,3,3,The patient describes obsessive thoughts related to contamination and cleaning， which is consistent with Obsessive-Compulsive Disorder.,"{'predicted_labels': ['OCD'], 'is_comorbidity': fa",TRUE
+4762,2,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+7235,1,-1,[],,{,FALSE
+8259,2,0,0;1,User talks about anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+4730,2,1,1,Anxiety and depression often co-occur.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7547,3,-1,[],,{,FALSE
+4929,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+1606,0,1,1,Anhedonia is a core symptom of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+4772,0,1,1;3,Anxiety， obsessive-compulsive disorder.,"{“predicted_labels”: [1, 3],“is_comorbidity”: fals",FALSE
+8108,2,1,1;6,Explicitly stated depression and video game addiction.,"{'predicted_labels': [1, 6],'is_comorbidity': fals",FALSE
+6393,4,1,1,The patient describes feelings of hopelessness， worthlessness， suicidal ideation， and loss of interest or pleasure.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+6003,3,-1,[],,{,FALSE
+7727,3,1,1,,"{'predicted_labels': [1],",FALSE
+3541,5,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+388,4,1,1,Multiple references to depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1794,0,2,2;5,Exhibits impulsivity， difficulty concentrating， restlessness.,"{'predicted_labels': ['ADHD', 'Video Game Addictio",FALSE
+8730,2,0,0,Patient describes feeling needy for social support due to lack of motivation.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+4918,0,0,0;3,The patient describes experiencing anxiety and obsessive-compulsive disorder (OCD) symptoms.,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",TRUE
+7203,1,2,2,The patient is experiencing feelings of depression and sadness.,"{“predicted\_labels”: [2], “is\_comorbidity”: fals",FALSE
+3872,5,0,0;1,,"{'predicted\_labels':[0,1],",FALSE
+6135,3,-1,[],,{,FALSE
+2254,3,1,1,,"{ 'predicted\_labels': [1],",FALSE
+3412,5,0,0;1,Patient describes feeling anxious and depressed.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+5458,1,-1,[],,{,FALSE
+6897,1,-1,[],,{,FALSE
+7845,1,6,6,,"{'predicted_labels': [6],'is_comorbidity': false,'",FALSE
+4779,0,1,1;0;0;0;0;0,User describes feelings of depression but does not describe any actions taken or thoughts associated with these feelings. User mentions video game addiction， however， no description is given regarding excessive behaviors. No mention of anxiety， eating disorder， or obsessive-compulsive disorder.,"{'predicted_labels': [1, 0, 0, 0, 0, 0],'is_comorb",FALSE
+7398,1,2,2,,"{'predicted_labels': [2],'is_comorbidity': false,'",FALSE
+7787,3,-1,[],,{,FALSE
+5663,1,1,1,Patient is experiencing depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+4850,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+2025,0,-1,[],,{,FALSE
+2615,0,1,1,The patient expresses extreme excitement followed by anxiety.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+7387,1,1,1,,"{ 'predicted\_labels': [1],",TRUE
+2926,5,0,0;6,,"{ 'predicted\_labels': [0, 6],",FALSE
+1121,4,1,1,Patient describes depressive thoughts and suicidal ideation.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2910,5,6,6,Knowing what I do about Blizzard’s sense of humor…That was 100% deliberate.,"{“predicted\_labels”: [6], “is\_comorbidity”: fals",FALSE
+5781,1,1,1,Recurring nightmares can be associated with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+7429,1,-1,[],,{,FALSE
+3482,5,1,1,,"{'predicted_labels': [1],",FALSE
+795,4,1,1;3,,"{'predicted_labels': [1, 3],",FALSE
+1575,0,0,0,Excessive worrying about everyday tasks.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",TRUE
+6175,3,-1,[],,{,FALSE
+7752,3,-1,[],,{,FALSE
+2458,5,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+3312,5,1,1,The patient describes feeling sad and crying for no reason， which is consistent with depression.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+1253,4,1,1,,"{``'predicted_labels': [1], 'is_comorbidity': fals",FALSE
+9556,2,1,1,ADHD causes different motivators for people.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+5386,1,0,0,Excessive worrying about everyday tasks.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+3837,5,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+4398,2,0,0;2,,"{'predicted_labels': ['Anxiety', 'ADHD'],",FALSE
+3595,5,6,6,The patient expresses frustration about microtransactions (MTX) in games and players who spend money to unlock achievements that should be part of the base game. This suggests impulse control issues.,"{'predicted_labels': [6],'is_comorbidity': false,'",FALSE
+6620,4,3,3,Excessive hand washing due to fear of getting sick from COVID-19.,"{'predicted_labels': [3], 'is_comorbidity': false,",FALSE
+5369,5,-1,[],,{,FALSE
+2124,0,-1,[],,{,FALSE
+3238,5,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+5402,1,-1,[],,{,FALSE
+7352,1,1,1,The patient describes feeling depressed and worthless， having suicidal thoughts， and feeling like a burden to his family.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+5937,1,1,1,This patient is experiencing depression.,"{'predicted_labels': [1],'is_comorbidity': false,'",TRUE
+2045,0,-1,[],,{,FALSE
+1578,0,1,1,Anxiousness and restlessness were mentioned by OP. No mention of depressed mood.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+14,2,3,3,The patient mentioned having difficulty concentrating， feeling restless or irritable， and experiencing anxiety about school work.,"{“predicted\_labels”: [3], “is\_comorbidity”: fals",FALSE
+2673,2,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+4914,0,-1,[],,{,FALSE
+8055,2,0,0;2,Patient describes feeling of restlessness and difficulty concentrating.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+6562,5,1,1,Excessive worry about performance or productivity.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8604,2,6,6,The patient describes experiencing anxiety during times when they have to give speeches or presentations.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+1084,4,-1,[],,{,FALSE
+4982,0,-1,[],,{,FALSE
+9334,5,-1,[],,{,FALSE
+2884,5,1,1;5,Sadness， loneliness， social isolation， self-loathing.,"{'predicted_labels': ['Depression', 'Video Game Ad",FALSE
+333,4,1,1,,"{``'predicted_labels': [1],`` ``'is_comorbidity': ",FALSE
+7977,2,-1,[],,{,FALSE
+4367,2,2,2;3,Patient mentioned difficulty with concentration， restlessness， feeling of guilt and anxiety， which is consistent with depression and OCD.,"{'predicted_labels': [2, 3], 'is_comorbidity': fal",TRUE
+3079,5,-1,[],,{,FALSE
+7202,1,-1,[],,{,FALSE
+9908,5,1,1,Depressive disorder without psychotic features was mentioned.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+7642,3,7,7,The user is expressing concern about their friend who may have video game addiction.,"{'predicted_labels': [7], 'is_comorbidity': false,",FALSE
+263,4,2,2,,"{'predicted_labels':['ADHD'],",FALSE
+4337,2,-1,[],,{,FALSE
+8894,2,-1,[],,{,FALSE
+8286,2,-1,[],,{,FALSE
+5902,1,1,1,,"{ 'predicted\_labels': [1],",TRUE
+1498,3,1,1,,"{ 'predicted\_labels': [1],",FALSE
+4190,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+6065,3,1,1,OCD (obsessive-compulsive disorder) was identified as the primary condition.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5918,1,3,3,The patient is describing obsessive-compulsive disorder (OCD) related to their fear of COVID-19.,"{“predicted_labels”: [3], “is_comorbidity”: false,",FALSE
+7407,1,1,1,Fear associated with bad dreams.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+7589,3,1,1,,"{'predicted_labels': [1],",FALSE
+500,4,-1,[],,{,FALSE
+6282,5,-1,[],,{,FALSE
+9413,2,1,1,,"{'predicted_labels': [1],",FALSE
+3095,5,-1,[],,{,FALSE
+4630,2,-1,[],,{,FALSE
+367,4,1,1;4,,"{'predicted_labels': [1, 4],",FALSE
+4058,0,1,1,,"{'predicted_labels': [1],",FALSE
+6848,0,1,1,,"{'predicted_labels': [1],",FALSE
+4629,2,6,6,Anxiety is a great motivator for developing coping mechanisms.,"{'predicted_labels': [6],'is_comorbidity': false,'",FALSE
+6069,3,6,6,Exhibits behavioral characteristics of video game addiction.,"{'predicted\_labels': [6],“is\_comorbidity”: false",FALSE
+2664,2,1,1,Patient describes feeling depressed and down for years.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+1026,4,1,1,,"{'predicted_labels': [1],",FALSE
+8629,2,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+5049,0,0,0,,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",TRUE
+6504,5,-1,[],,{,FALSE
+9732,3,0,0,Externalized hallucinations can be associated with anxiety disorder.,"{“predicted_labels”: [0], “is_comorbidity”: false,",FALSE
+1691,0,0,0,Anxiousness mentioned repeatedly.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",TRUE
+673,4,-1,[],,{,FALSE
+6427,5,1,1,The patient is experiencing depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5632,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+5046,0,2,2,,"{'predicted_labels': [2],",FALSE
+733,4,-1,[],,{,FALSE
+3526,5,-1,[],,{,FALSE
+568,4,2,2,The patient describes feeling depressed and hopeless.,"{'predicted_labels': [2], 'is_comorbidity': false,",FALSE
+9186,5,-1,[],,{,FALSE
+2922,5,3,3,OCD is present.,"{“predicted\_labels”: [3], “is\_comorbidity”: fals",FALSE
+7910,2,6,6,,"{'predicted_labels': [6],",FALSE
+1558,0,-1,[],,{,FALSE
+101,1,1,1;0;0;0;0;0,Anorectic behavior， Suicidality， Hopelessness， Pessimism， Guilt， Helplessness， Lack of Happiness， Self-deprecation.,"{“predicted\_labels”: [1, 0, 0, 0, 0, 0], “is\_com",TRUE
+3007,5,0,0,The patient describes experiencing anxiety while playing video games.,"{“predicted_labels” : [0], “rationale” : “The pati",FALSE
+7200,1,-1,[],,{,FALSE
+303,4,0,0;2,Excessive worrying about everyday tasks and high tendency to seek perfection may be related to anxiety disorder.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+76,1,6,6,,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+6753,2,-1,[],,{,FALSE
+8628,2,1,1,,"{'predicted_labels': [1],",FALSE
+1208,4,6,6,The patient describes symptoms of depression and anxiety.,"{'predicted_labels': [6],'is_comorbidity': false,'",FALSE
+9524,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+8612,2,-1,[],,{,FALSE
+9113,5,-1,[],,{'predicted_links': ['https://smile.amazon.com/Hig,FALSE
+9649,1,-1,[],,{,FALSE
+1775,0,1,1,Low mood， anxiety， low energy， decreased interest in activities， social withdrawal， insomnia， appetite changes.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3473,5,1,1,Anxiousness is not listed as a symptom of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+483,4,1,1,,"{'predicted_labels': [1],",FALSE
+2189,1,-1,[],,{,FALSE
+346,4,6,6,The patient describes having difficulty with anxiety and panic attacks.,"{'predicted\_labels':[6],'is\_comorbidity':true,'r",FALSE
+6989,1,0,0;3,,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+7557,3,1,1,The patient describes experiencing intrusive thoughts that interfere with daily activities.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1472,3,0,0,Low self-esteem is a risk factor for anxiety disorders.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+6691,2,-1,[],,{,FALSE
+8221,2,-1,[],,{,FALSE
+6010,3,1,1,,"{'predicted_labels': [1],",FALSE
+5202,5,-1,[],,{,FALSE
+6746,1,1,1,Patient describes feeling of depression and anxiety.,"{'predicted_labels': [1],'is_comorbidity': false,'",TRUE
+2609,0,1,1,,"{'predicted_labels': [1],",FALSE
+3,2,-1,[],,{,FALSE
+2213,3,1,1,,"{'predicted_labels': [1],",FALSE
+4826,0,-1,[],,{,FALSE
+856,4,1,1,The patient describes having a lot of selfies that they store， which is consistent with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6462,5,1,1,The patient describes feeling depressed and sad.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+5884,1,1,1;6,,"{``'predicted_labels': [1, 6],`` ``'is_comorbidity",TRUE
+624,4,1,1,Patient describes frequent thoughts of self-harm and suicide ideation with detailed descriptions of suicidal plans.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+290,4,0,0;5,Well then he has no excuse for being so goddamn rude and tactless.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+2018,0,6,6,,"{ 'predicted\_labels': [6],",FALSE
+668,4,-1,[],,{,FALSE
+8920,1,-1,[],,{,FALSE
+8263,2,2,2;3,Symptoms include difficulty staying focused and impulsiveness.,"{'predicted_labels': ['ADHD', 'OCD'], 'is_comorbid",TRUE
+9695,1,1,1,,"{ 'predicted\_labels': [1],",TRUE
+1631,0,1,1,,"{'predicted_labels': [1],",FALSE
+5169,5,-1,[],,{,FALSE
+7204,1,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+2522,2,-1,[],,{,FALSE
+2215,3,-1,[],,{,FALSE
+6967,1,0,0;1,Frequent feelings of anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+4726,2,1,1,The patient describes experiencing anxiety-related difficulties with social interactions.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8841,0,0,0,,"{'predicted_labels': [0],",TRUE
+8119,2,-1,[],,{,FALSE
+8991,1,1,1,,"{'predicted_labels': [1],",TRUE
+1107,4,1,1,The patient describes feeling sad， crying easily， loss of interest， changes in appetite， difficulty concentrating， thoughts of death or suicidal ideation.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+450,4,0,0;1,,"{'predicted_labels': ['anxiety', 'depression'],",FALSE
+5403,1,-1,[],,{,FALSE
+5617,1,0,0,,"{ 'predicted\_labels': [0],",FALSE
+135,4,1,1,,"{'predicted_labels': [1],",FALSE
+1785,0,-1,[],,{,FALSE
+3404,5,-1,[],,{,FALSE
+2906,5,1,1,,"{'predicted_labels': [1],",FALSE
+8303,2,-1,[],,{,FALSE
+8616,2,1,1,Patient describes symptoms of depression and anxiety.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7762,3,-1,[],,{,FALSE
+4504,2,3,3;6,The patient presents with obsessive-compulsive behaviors.,"{“predicted_labels”: [3, 6], “is_comorbidity”: fal",FALSE
+9553,2,1,1,Most patients who have ADHD also show symptoms of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5204,5,1,1;2;6,,"{'predicted_labels': [1, 2, 6],",FALSE
+4080,2,1,1;2,,"{'predicted_labels': [1, 2],",FALSE
+8749,2,1,1;2,Patient describes feeling depressed and anxious.,"{“predicted\_labels”: [1, 2], “is\_comorbidity”: f",FALSE
+5159,5,1,1,ADHD.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+5205,5,1,1;0,Patient describes mild depression， but no anxiety or other disorders.,"{'predicted_labels': [1, 0], 'is_comorbidity': fal",FALSE
+532,4,1,1,Anxiousness is a symptom of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+4829,0,0,0;5,Sleep deprivation is associated with anxiety.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",TRUE
+4038,1,0,0,Sometimes you are ahead， sometimes you are behind. The race is long， and in the end... it is only with yourself.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+4084,1,-1,[],,{,FALSE
+3204,5,-1,[],,{,FALSE
+7109,1,-1,[],,{,FALSE
+330,4,1,1,,"{'predicted_labels': [1],",FALSE
+6072,3,0,0,,"{'predicted_labels': [0],",FALSE
+3033,5,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+4957,0,0,0,Lying is associated with anxiety.,"{'predicted_labels': [0], 'is_comorbidity': false,",TRUE
+1597,0,1,1,,"{'predicted_labels': [1],",FALSE
+5112,0,-1,[],,{,FALSE
+3597,5,2,2,Video game addiction can lead to depression.,"{“predicted\_labels”: [2], “is\_comorbidity”: fals",FALSE
+4963,0,3,3,The patient describes having difficulty with obsessive thoughts and compulsions.,"{“predicted_labels”: [3], “is_comorbidity”: false,",FALSE
+9401,5,1,1,,"{'predicted_labels': [1],",FALSE
+590,4,1,1,Anorexia Nervosa,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+647,4,-1,[],,{,FALSE
+6784,2,1,1,Patient describes feeling of being overwhelmed with anxiety， difficulty concentrating， irritability， restlessness， muscle tension， fatigue， insomnia， and avoidance of activities due to fear or worry.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7954,2,1,1;3,,"{``'predicted_labels':[1,3],",FALSE
+3771,5,1,1,Patient describes feeling of hopelessness， worthlessness， suicidal ideation， loss of energy or interest in activities， difficulty concentrating， sleep disturbances， and changes in appetite or weight.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+9038,5,-1,[],,{,FALSE
+5081,0,1,1,Depression: patient feels unhappy， sad， and worthless.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+7881,2,0,0,The patient exhibits anxiety-like behavior.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+6658,2,1,1;5,,"{ 'predicted\_labels': [1, 5],",FALSE
+4210,1,-1,[],,{,FALSE
+8833,0,6,6,,"{ 'predicted\_labels': [6],",FALSE
+4860,0,-1,[],,{,FALSE
+1795,0,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",TRUE
+2586,1,1,1;2,,"{'predicted_labels': [1, 2],",TRUE
+8354,2,1,1,Explicitly based on symptoms described.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+2316,5,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+4185,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+9778,2,1,1,Patient describes feeling indecisive which is a symptom associated with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8916,1,2,2;1,,"{'predicted_labels': ['ADHD', 'Depression'],",FALSE
+8665,2,1,1,,"{'predicted_labels': [1],",FALSE
+8435,2,-1,[],,{,FALSE
+6779,2,1,1;3,ADHD - combined type with coexisting lethargy and lack of motivation.,"{“predicted_labels”: [1, 3], “is_comorbidity”: fal",FALSE
+4767,2,-1,[],,{,FALSE
+5965,1,1,1,Anhedonia， hopelessness， low energy， difficulty concentrating.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+7143,1,2,2,Hyperactivity and impulsivity.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+2913,5,1,1,Anhedonia is a symptom of depression.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+9158,5,0,0;5,The patient describes experiencing anxiety about the possibility of high latencies and video game addiction due to long periods of playing.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+9892,5,0,0;1,The patient describes symptoms consistent with anxiety (excessive worry) and depression (low mood). The two disorders can coexist without being comorbid.,"{'predicted\_labels': ['Anxiety', 'Depression'], '",FALSE
+2075,0,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",TRUE
+4302,2,-1,[],,{,FALSE
+5257,5,6,6,The patient describes feeling stressed， overwhelmed， and depressed due to their work as well as difficulty sleeping at night.,"{'predicted\_labels': [6], 'is\_comorbidity': fals",FALSE
+2149,0,1,1,Depression is characterized by feelings of sadness or loss and can be accompanied by physical symptoms such as fatigue， sleep disturbances， changes in appetite， and difficulty concentrating.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+144,4,1,1,,"{'predicted_labels': [1],'is_comorbidity': false, ",FALSE
+6969,1,-1,[],,{,FALSE
+8158,2,1,1,See that’s the mystery of it. I myself can’t remember how lost they were.,"{'predicted\_labels': [1],“is\_comorbidity”:'yes',",FALSE
+9029,5,1,1;0;0;0;0;0,,"{'predicted\_labels': [1, 0, 0, 0, 0, 0],",FALSE
+8973,1,1,1,The patient describes feeling depressed and sad.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+9607,2,1,1,The patient describes feeling overwhelmed by small setbacks or losses， difficulty finding enjoyment in activities they typically enjoyed， and withdrawing socially. These symptoms suggest depression.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+7748,3,-1,[],,{,FALSE
+9827,5,0,0,Excessive worrying about school work,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+9213,5,1,1;3;5,The patient describes experiencing both depression and obsessive-compulsive disorder (OCD) symptoms.,"{'predicted_labels': [1, 3, 5], 'is_comorbidity': ",FALSE
+8314,2,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8595,2,-1,[],,{,FALSE
+6408,5,0,0,The patient is experiencing anxiety.,"{“predicted_labels”: [0], “is_comorbidity”: false,",FALSE
+3317,5,1,1;6,,"{'predicted_labels': [1, 6],",FALSE
+5674,1,1,1,The patient describes symptoms of depression such as low mood， loss of interest， difficulty concentrating， fatigue， sleep problems， feelings of worthlessness， and thoughts of suicide.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",TRUE
+3061,5,6,6,The patient describes video game addiction symptoms.,"{'predicted\_labels': [6], 'is\_comorbidity': fals",FALSE
+1355,3,6,6,,"{'predicted_labels': [6],",FALSE
+4514,2,-1,[],,{,FALSE
+5504,1,6,6,Video game addiction is not a mental disorder but rather a behavioral addiction.,"{'predicted\_labels': [6], 'is\_comorbidity': fals",FALSE
+8201,2,1,1,Depressive disorder is characterized by feelings of sadness or loss that last for at least several weeks and cause difficulties with daily activities such as eating， sleeping， working， school attendance， and social interactions.,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+4511,2,-1,[],,{,FALSE
+1730,0,-1,[],,{,FALSE
+1758,0,-1,[],,{,FALSE
+6649,1,-1,[],,{,FALSE
+8961,1,1,1;3,,"{'predicted_labels': [1, 3],",TRUE
+9859,5,1,1,Patient has expressed suicidal thoughts.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+4139,2,6,6,,"{'predicted_labels': [6],",FALSE
+9587,2,1,1;3,Patient complains of feeling down for two weeks， lack of interest in activities they usually enjoy， sleep disturbance， and poor appetite.,"{'predicted\_labels': [1, 3],“is\_comorbidity”: fa",FALSE
+9225,5,0,0,Anxious behavior， hyperactivity， difficulty concentrating.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",FALSE
+0,0,2,2,The patient describes feelings of anxiety and hopelessness as well as thoughts of suicide.,"{'predicted_labels': [2],'is_comorbidity': false,'",FALSE
+1864,0,0,0,,"{'predicted_labels': [0],",TRUE
+543,4,7,7,Binge-eating disorder with binging is possible but not necessarily comorbid.,"{'predicted_labels': [7],'is_comorbidity': false,'",FALSE
+349,4,-1,[],,{,FALSE
+9568,0,1,1,,"{'predicted_labels': [1],",FALSE
+9764,3,1,1,,"{'predicted_labels': [1],",FALSE
+2523,2,1,1;2,,"{'predicted_labels':[1, 2],",FALSE
+3464,5,-1,[],,{,FALSE
+457,4,1,1;5,,"{'predicted_labels': ['Depression', 'Video Game Ad",FALSE
+3023,5,0,0;5,The patient describes feeling nervous and uncomfortable when not playing video games.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+6025,3,-1,[],,{,FALSE
+7074,1,1,1,Patient describes being depressed and having lost his girlfriend.,"{“predicted_labels”: [1], “is_comorbidity”: false,",TRUE
+6723,0,-1,[],,{,FALSE
+8603,2,-1,[],,{,FALSE
+2534,2,-1,[],,{,FALSE
+131,4,1,1,The user describes feeling down and depressed for extended periods of time.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3704,5,1,1;0;0;0;0;0,User stated that they have depression but not anxiety.,"{'predicted\_labels': [1, 0, 0, 0, 0, 0], 'is\_com",FALSE
+1372,3,0,0;1,Anxious thoughts and feelings such as worry， restlessness or irritability; sadness， loss of interest or pleasure， fatigue， sleep problems， poor appetite， and difficulty concentrating.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+6199,3,-1,[],,{,FALSE
+9081,5,2,2;4,The patient describes feeling overwhelmed by the amount of work they have to do for school， difficulty concentrating， and loss of appetite due to stress.,"{“predicted\_labels”: [2, 4],“is\_comorbidity”: fa",FALSE
+8144,2,0,0;5,ADHD is often comorbid with anxiety disorders (e.g.， generalized anxiety disorder) or mood disorders (e.g.， major depressive disorder). However， no such indication was found in the input text.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+6968,1,-1,[],,{,FALSE
+1413,3,1,1,,"{'predicted_labels': [1],",FALSE
+4113,1,5,5,,"{ 'predicted\_labels': [5],",FALSE
+655,4,1,1,,"{ 'predicted\_labels': [1],",FALSE
+7111,1,-1,[],,{,FALSE
+4098,2,1,1,Patient describes feeling sad， crying easily， difficulty concentrating， irritability， loss of pleasure， poor appetite， insomnia， fatigue. No mention of substance abuse or somatic illness.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+592,4,1,1,,"{'predicted_labels': [1],",FALSE
+8707,2,1,1,User talks about feeling sad and crying throughout the message.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3123,5,1,1,Depressive disorder is characterized by sadness， low energy， poor concentration， disinterest in daily activities， sleep disturbance， appetite loss， feelings of guilt and worthlessness， and suicidal thoughts and attempts.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3047,5,1,1,The patient describes feeling overwhelmed with thoughts of death and suicide， as well as fearing for their safety.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3887,5,0,0,Excessive worry about real or imagined problems; excessive anxiety.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+5982,1,1,1,,"{ 'predicted\_labels': [1],",TRUE
+2184,1,-1,[],,{,FALSE
+2145,0,-1,[],,{,FALSE
+7046,1,-1,[],,{,FALSE
+3105,5,-1,[],,{,FALSE
+6515,5,1,1,,"{'predicted_labels': [1],",FALSE
+9095,5,-1,[],,{,FALSE
+2769,2,-1,[],,{,FALSE
+7507,3,1,1,,"{'predicted_labels': [1],",FALSE
+6395,4,1,1,,"{'predicted_labels': [1],",FALSE
+1732,0,1,1,,"{'predicted_labels': [1],",FALSE
+265,4,1,1,,"{'predicted_labels': [1],",FALSE
+5143,0,1,1,Anxiousness is a symptom of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7094,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+3937,2,1,1,,"{'predicted_labels': [1],",FALSE
+761,4,1,1,,"{ 'predicted\_labels': [1],",FALSE
+7219,1,-1,[],,{,FALSE
+8438,2,1,1,Patient describes feeling of difficulty concentrating， restlessness， irritability， fatigue， sleep disturbance， decreased appetite.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+3257,5,1,1,,"{'predicted_labels': [1],",FALSE
+4338,2,2,2;5,The patient describes difficulty concentrating， restlessness， and impulsivity.,"{'predicted_labels': ['ADHD', 'Video Game Addictio",TRUE
+4362,2,1,1,Patient describes feeling sad， crying often， loss of appetite， difficulty concentrating， thoughts of ending their life.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+316,4,1,1,,"{'predicted_labels': [1],",FALSE
+6523,5,1,1,,"{'predicted_labels': [1],",FALSE
+1851,0,-1,[],,{,FALSE
+2484,2,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+9872,5,0,0,Patient is feeling anxious about the release of Jump Force.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+9573,1,1,1,,"{'predicted_labels': [1],",TRUE
+1078,4,0,0,Excessive worry and anxiety about everyday events.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+7704,3,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+9608,2,-1,[],,{,FALSE
+1071,4,0,0;2,,"{'predicted_labels': ['Anxiety', 'ADHD'],",FALSE
+103,0,-1,[],,{,FALSE
+8304,2,1,1,Depression is the main diagnosis here.,"{“predicted_labels”:[1],“is_comorbidity”: false, “",FALSE
+1418,3,1,1,,"{'predicted_labels': [1],",FALSE
+1658,0,1,1,,"{“predicted_labels”: [1], “is_comorbidity”: False,",FALSE
+7261,1,1,1,The patient describes feeling overwhelmed by anxiety when thinking about the future of their child.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+1149,4,1,1,Low self-esteem， low mood， suicidal ideation， social isolation， loneliness.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+7149,1,1,1;2,,"{'predicted_labels': [1, 2],",TRUE
+1568,0,1,1,,"{'predicted_labels': [1],",FALSE
+1087,4,1,1,Depression is mentioned as symptom.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6084,3,1,1,,"{``'predicted_labels': [1], ``'is_comorbidity': fa",FALSE
+8673,2,1,1,Patient is describing depressive symptoms such as hopelessness， worthlessness， suicidal ideation， loss of interest or pleasure， and fatigue.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+8785,2,1,1,Patient describes feeling overwhelmed by daily tasks due to procrastination and difficulty organizing themselves.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7810,1,-1,[],,{,FALSE
+6083,3,3,3,The user describes feeling ‘anxious’ after being ignored by their friend for several days.,"{“predicted_labels”: [3],“is_comorbidity”: false,“",TRUE
+8772,2,1,1,The patient is describing symptoms of depression.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+8229,2,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+1692,0,-1,[],,{,FALSE
+5518,1,0,0,The patient is describing anxiety-related thoughts， but not explicitly discussing depression or other mental health issues.,"{'predicted_labels': ['anxiety'], 'is_comorbidity'",FALSE
+3387,5,2,2;6,The patient describes feeling frustrated if he is unable to play video games for extended periods of time.,"{“predicted_labels”: [2, 6], “is_comorbidity”: fal",FALSE
+3646,5,-1,[],,{,FALSE
+1683,0,-1,[],,{,FALSE
+8,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+6061,3,1,1,,"{ 'predicted\_labels': [1],",FALSE
+6193,3,-1,[],,{,FALSE
+4123,1,-1,[],,{,FALSE
+8728,2,0,0;5,User reported anxiety symptoms (e.g.， heart palpitations) and video game addiction behaviors (e.g.， excessive preoccupation with playing games). The user also mentioned that they were seeking help for their mental health.,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+7911,2,1,1,Depression was identified as the primary condition.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+567,4,6,6,User describes a situation of excessive preoccupation with video games.,"{'predicted\_labels': [6],“is\_comorbidity”: false",FALSE
+9160,5,0,0,Patient complains about anxiety.,"{'predicted\_labels': [0], 'is\_comorbidity': fals",FALSE
+1803,0,-1,[],,{,FALSE
+8500,2,-1,[],,{,FALSE
+4899,0,1,1,,"{'predicted_labels': [1],",FALSE
+1599,0,0,0,Terrifying driving anxiety and panic attacks while driving.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",TRUE
+7930,2,1,1,,"{ 'predicted\_labels': [1],",FALSE
+9546,1,-1,[],,{,FALSE
+2823,5,0,0,Patient feels like he is losing control of his life.,"{'predicted_labels': ['Anxiety'], 'rationale': 'Pa",FALSE
+5221,5,0,0,The patient is talking about being excited to play Resident Evil 2 (RE2) game.,"{'predicted\_labels': [0], 'is\_comorbidity': fals",FALSE
+3529,5,1,1,Depressive disorder is characterized by sadness or depression. It can also be referred as depressed mood.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+8682,2,1,1,Patient describes symptoms consistent with depression (low energy level， lack of interest in usual activities) and reports taking antidepressants.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1155,4,-1,[],,{,FALSE
+5667,1,-1,[],,{,FALSE
+5924,1,-1,[],,{,FALSE
+8092,2,1,1,,"{'predicted_labels': [1],",FALSE
+9843,5,-1,[],,{,FALSE
+4540,2,1,1,The patient describes feeling sadness， crying easily， loss of interest or pleasure， poor appetite， difficulty concentrating， restlessness， insomnia， and suicidal thoughts...,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+9133,5,0,0,Excessive social media use leading to anxiety.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",FALSE
+6481,5,-1,[],,{,FALSE
+5825,1,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+1190,4,-1,[],,{,FALSE
+7443,1,1,1,,"{'predicted_labels': [1],",TRUE
+8008,2,2,2,The patient describes experiencing difficulty concentrating and having intrusive thoughts that prevent him from focusing on a task.,"{“predicted\_labels”: [2], “is\_comorbidity”: fals",TRUE
+960,4,-1,[],,{,FALSE
+6338,4,0,0;3,,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+36,2,1,1,The patient is describing symptoms of depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+9050,5,1,1,Depression was identified as the primary disorder.,"{'predicted_labels':[1], 'is_comorbidity': false, ",FALSE
+8863,2,-1,[],,{,FALSE
+4438,2,1,1,,"{'predicted_labels': [1],",FALSE
+8327,2,1,1,Patient is experiencing depression (sadness， loss of energy).,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7743,3,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+9586,4,1,1,Bingeing behavior is associated with depression.,"{“predicted_labels” : [1], “is_comorbidity”: false",FALSE
+7267,1,1,1,,"{'predicted_labels': [1],",TRUE
+6500,5,0,0,Patient describes feeling of anxiety while looking at a painting.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+7061,1,2,2;0,,"{'predicted_labels': ['ADHD', 'Anxiety'],",FALSE
+577,4,-1,[],,{,FALSE
+9832,5,1,1,Several references to feeling depressed (e.g.， ‘O can see how someone who played the demo can feel that way’),"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+4102,1,1,1,,"{'predicted_labels': [1],'is_comorbidity': false,'",TRUE
+9527,1,-1,[],,{,FALSE
+4151,1,-1,[],,{,FALSE
+3130,5,-1,[],,{,FALSE
+4889,0,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",TRUE
+8341,2,1,1,The patient describes feeling anxious about their future， but also mentions that it’s been difficult for them to feel any positive emotions lately.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+7470,1,-1,[],,{,FALSE
+1833,0,-1,[],,"{'predicted_labels': ['2', '3'],",FALSE
+9147,5,1,1,Patient describes feeling depressed and hopeless， loss of interest in activities， poor appetite， difficulty concentrating， feelings of worthlessness， thoughts of death or suicide.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+4890,0,1,1;2,User feels anxious about social media interactions due to fear of saying the wrong thing or being judged negatively.,"{“predicted_labels”: [1, 2],“is_comorbidity”: fals",FALSE
+2287,5,1,1,The patient describes feeling overwhelmed with schoolwork， having difficulty concentrating， and experiencing anxiety during exams.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+1330,3,1,1,,"{ 'predicted\_labels': [1],",FALSE
+2771,2,0,0,Anxiousness， restlessness， and paranoia are all symptoms of anxiety disorders.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+3686,5,1,1,Sadness， low self-esteem， suicidal ideation.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6786,1,-1,[],,{,FALSE
+6995,1,0,0,Anxiousness is a symptom of anxiety disorder.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+637,4,-1,[],,{,FALSE
+47,1,1,1,Depressed mood， lack of energy or fatigue， difficulty concentrating， insomnia， appetite loss， feelings of worthlessness or guilt， suicidal ideation.,"{“predicted_labels”:[1],“is_comorbidity”:true,”rat",TRUE
+2602,0,1,1,Anxiety is the primary diagnosis.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+1965,0,0,0,No， it just looks like a freckle.,"{“predicted_labels”: [0], “is_comorbidity”: false,",TRUE
+2168,1,3,3,OCD is mentioned as compulsive behavior.,"{“predicted\_labels”: [3], “is\_comorbidity”: fals",FALSE
+5048,0,1,1,Anxiety disorder.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+3334,5,0,0,There was a spider in the corner near my front door and a pile of dead ants under it. It was being a good roommate and my fiance?? killed it. Why did you do that?! It was a black widow.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+3019,5,-1,[],,{,FALSE
+4740,2,-1,[],,{,FALSE
+9175,5,1,1,Depressive disorder with reference to ‘loved’ phrase.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+1360,3,-1,[],,{,FALSE
+8784,2,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",FALSE
+9399,5,-1,[],,{,FALSE
+3251,5,0,0;3,Excessive worry about school performance and difficulty with separation from mother.,"{'predicted\_labels': ['Anxiety', 'OCD'], 'is\_com",FALSE
+7207,1,1,1;3,,"{'predicted_labels': [1, 3],",TRUE
+2251,3,-1,[],,{,FALSE
+7260,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+1175,4,4,4,The patient is describing signs of depression.,"{“predicted_labels”: [4], “is_comorbidity”: false,",TRUE
+5603,1,-1,[],,{,FALSE
+3279,5,-1,[],,{,FALSE
+2973,5,3,3,OCD is often comorbid with other disorders such as depression or anxiety.,"{“predicted_labels”:[3],'is_comorbidity':true,'rat",FALSE
+3396,5,2,2,,"{'predicted_labels': [2],",FALSE
+9351,5,1,1,Depression,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+965,4,1,1,,"{'predicted_labels': [1],",FALSE
+8573,2,2,2,The patient describes feeling anxious and depressed.,"{“predicted\_labels”: [2], “is\_comorbidity”: fals",TRUE
+742,4,1,1,The patient is describing depression with reference to lack of appetite.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+6051,3,0,0,Rude tone at beginning of message but describes symptoms consistent with anxiety disorder.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",FALSE
+3314,5,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+5662,1,6,6,The person describes experiencing intense feelings of anxiety due to their fear that they will not be able to care for others as they usually do.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+7189,1,2,2,The patient describes feelings of hopelessness and worthlessness， as well as loss of pleasure or interest in activities. These symptoms are consistent with depression.,"{'predicted_labels': [2], 'is_comorbidity': false,",FALSE
+4671,2,3,3,,"{'predicted_labels': [3],",FALSE
+8617,2,1,1;2,The patient describes feeling overwhelmed by their responsibilities as a mother while also dealing with her mental health issues.,"{'predicted_labels':[1,2],'is_comorbidity':true,'r",FALSE
+1217,4,1,1,,"{'predicted_labels': [1],",FALSE
+4397,2,1,1,,"{'predicted_labels': [1],",FALSE
+6079,3,1,1;0,,"{'predicted_labels': ['Depression', 'Anxiety'],",FALSE
+2614,0,0,0,God is not related to anxiety.,"{'predicted_labels': [0], 'is_comorbidity': false,",TRUE
+2620,0,7,7,The patient describes symptoms of anxiety but also states that they have been diagnosed with depression.,"{'predicted_labels': [7], 'is_comorbidity': false,",FALSE
+5317,5,1,1,I have been feeling depressed for about two weeks now since I lost my job due to COVID-19.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5866,1,6,6,,"{ 'predicted\_labels': [6],",FALSE
+3379,5,-1,[],,{,FALSE
+5003,0,-1,[],,{,FALSE
+4989,0,-1,[],,{,FALSE
+4593,2,1,1,,"{'predicted_labels': [1],",FALSE
+9812,5,2,2,Hyperactivity and impulsivity were mentioned.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+6715,1,0,0,Excessive worrying about work performance.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+8590,2,-1,[],,{,FALSE
+6849,1,0,0;1,Explained in content.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+1516,0,1,1;0;0;0;0;0,The patient describes feeling overwhelmed by their daily routine and seeking comfort food to cope with stress. They report using organizational techniques such as writing things down and breaking up large tasks into smaller ones. These behaviors align well with depression.,"{'predicted\_labels': [1, 0, 0, 0, 0, 0], 'is\_com",FALSE
+5493,1,-1,[],,{,FALSE
+7635,3,1,1,Compulsion or obsession is characterized by repetitive， intrusive thoughts (obsessions) or behaviors (compulsions). These thoughts or actions are often performed in order to reduce anxiety or distress， even though they may interfere with normal functioning.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+5566,1,-1,[],,{,FALSE
+6920,0,3,3,,"{ 'predicted\_labels': [3],",FALSE
+2392,5,6,6,Video game addiction can lead to depression.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+586,4,-1,[],,{,FALSE
+3519,5,-1,[],,{,FALSE
+7652,3,3,3;5,,"{'predicted_labels': ['OCD', 'Video Game Addiction",TRUE
+5953,1,3,3,Excessive hand washing due to fear of contamination.,"{'predicted_labels': ['OCD'], 'is_comorbidity': fa",FALSE
+850,4,1,1,,"{'predicted_labels': [1],",FALSE
+335,4,1,1,,"{'predicted\_labels': [1],",FALSE
+5700,1,-1,[],,{,FALSE
+8913,1,-1,[],,{,FALSE
+5300,5,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2868,5,1,1,,"{'predicted_labels': [1],",FALSE
+4871,0,3,3;6,Patient describes difficulty with anxiety and obsessive thoughts.,"{“predicted_labels”: [3, 6],“is_comorbidity”: fals",FALSE
+3550,5,-1,[],,{,FALSE
+3842,5,-1,[],,{,FALSE
+5642,1,1,1,,"{'predicted\_labels': [1],",TRUE
+6925,0,-1,[],,{,FALSE
+23,1,-1,[],,{,FALSE
+1453,3,1,1,OCD is diagnosed via DSM-V criteria.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+1684,0,-1,[],,{,FALSE
+2310,5,0,0,The patient is describing anxiety symptoms.,"{'predicted_labels': [0], 'is\_comorbidity': false",FALSE
+9882,5,6,6,,"{'predicted_labels': [6],",FALSE
+9405,5,1,1,Patient is describing depressive symptoms such as low mood， difficulty concentrating， sleep disturbance， and thoughts of death or self-harm.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+381,4,0,0;1,The patient presents with symptoms of anxiety (excessive worry) and depression (sadness). No comorbidity is indicated.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+5813,1,0,0,Sleeping problems are common among people with anxiety disorders.,"{“predicted\_labels”: [0], “is\_comorbidity”: fals",FALSE
+5549,1,1,1,,"{'predicted_labels': [1],",TRUE
+4672,2,-1,[],,{,FALSE
+1618,0,1,1,,"{'predicted_labels': ['Depression'],",FALSE
+789,4,-1,[],,{,FALSE
+5733,1,0,0;1,The patient describes experiencing anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+8671,2,-1,[],,{,FALSE
+4475,2,-1,[],,{,FALSE
+5605,1,-1,[],,{,FALSE
+9311,5,-1,[],,{,FALSE
+9246,5,0,0;1,Explicitly stated that anxiety and depression were present.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+6215,3,-1,[],,{,FALSE
+2286,5,3,3,,"{'predicted\_labels': [3],",FALSE
+9992,1,-1,[],,{,FALSE
+9108,5,0,0,,"{'predicted_labels':[0,'5'],",FALSE
+1183,4,-1,[],,{,FALSE
+6000,3,6,6,The patient describes migraines with visual disturbances， nausea， vomiting， sensitivity to light， and sensitivity to sound.,"{'predicted\_labels': [6],'is\_comorbidity': false",FALSE
+5228,5,1,1,Patient describes feeling of anxiety or tension， difficulty concentrating， irritability， restlessness， and muscle tension.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+2516,2,-1,[],,{,FALSE
+4122,2,3,3,Compulsive behavior such as hand washing can be seen in both anxiety disorders (such as obsessive-compulsive disorder) or substance use disorders.,"{'predicted_labels': ['OCD'], 'is_comorbidity': fa",FALSE
+5956,1,1,1;0;0;0;0;0,,"{ 'predicted\_labels': [1, 0, 0, 0, 0, 0],",TRUE
+7118,1,1,1,Patient is expressing feelings of depression.,"{“predicted_labels”: [1], “is_comorbidity”: false,",TRUE
+6088,3,-1,[],,{,FALSE
+7550,3,-1,[],,{,FALSE
+4568,2,-1,[],,{,FALSE
+7726,3,-1,[],,{,FALSE
+5967,1,1,1,,"{'predicted_labels': [1],",TRUE
+1180,4,1,1,Embarrassing mental health stuff.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+8204,2,1,1,,"{'predicted_labels': [1],",FALSE
+8302,2,-1,[],,{,FALSE
+2818,5,3,3,Excessive video game playing may lead to obsessive-compulsive disorder.,"{'predicted_labels': [3], 'is_comorbidity': false,",FALSE
+9963,4,1,1,,"{'predicted_labels': [1],",FALSE
+9346,5,-1,[],,{,FALSE
+6607,4,-1,[],,{,FALSE
+2820,5,-1,[],,{,FALSE
+8097,2,3,3,,"{ 'predicted\_labels': [3],",FALSE
+2260,3,3,3,,"{'predicted_labels': ['OCD'],",TRUE
+2239,3,0,0;3,The patient describes having anxiety attacks that are difficult to escape from (anxiety)， but also exhibits compulsive behavior (OCD) when trying to overcome these feelings.,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+6055,3,1,1,Perfectionism is associated with obsessive-compulsive disorder (OCD) . People with OCD often feel that things are not done correctly unless they meet extremely high standards.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+782,4,-1,[],,{,FALSE
+932,4,0,0;1,,"{ 'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+6201,3,1,1,,"{'predicted_labels': [1],",FALSE
+2412,5,1,1,Depressive disorder with somatic symptom.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+9308,5,-1,[],,{,FALSE
+6412,5,6,6,Multiple references to anxiety and depression.,"{'predicted\_labels': [6],“is\_comorbidity”: false",FALSE
+1156,4,-1,[],,{,FALSE
+8122,2,1,1,,"{'predicted_labels': [1],",FALSE
+5804,1,1,1,Lost all faith in the world.,"{“predicted_labels”: [1], “is_comorbidity”: false,",TRUE
+7572,3,-1,[],,{,FALSE
+3309,5,1,1,User mentions feeling down and depressed.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5082,0,0,0,,"{ 'predicted\_labels': [0],",TRUE
+1702,0,-1,[],,{,FALSE
+2492,2,6,6,,"{'predicted_labels': [6],",FALSE
+3706,5,0,0,Most of my Wii games cause me to feel nervous or stressed out.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+9959,1,0,0,,"{'predicted_labels': [0],",FALSE
+286,4,3,3,Patient is describing difficulty with food choices and preparation due to obsessive compulsive disorder.,"{“predicted_labels”: [3], “is_comorbidity”: false,",FALSE
+1608,0,0,0,Patient describes feeling overwhelmed by their nursing program but also expresses confidence in passing the next test if they can manage their anxiety.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",TRUE
+9154,5,2,2,Hyperactivity was mentioned by the user.,"{'predicted_labels': ['ADHD'], 'is_comorbidity': f",FALSE
+7051,1,0,0,,"{ 'predicted\_labels': [0],",FALSE
+5767,1,1,1,,"{'predicted_labels': [1],",TRUE
+2252,3,1,1;0,The patient describes feeling depressed and sad.,"{“predicted_labels”: [1, 0], “is_comorbidity”: fal",FALSE
+7414,1,-1,[],,{,FALSE
+6811,0,1,1,,"{'predicted_labels': [1],",FALSE
+1891,0,0,0;1,,"{ 'predicted\_labels': ['Anxiety', 'Depression'],",TRUE
+7391,1,0,0,Explicitly stated as anxiety.,"{'predicted_labels': ['Anxiety'], 'is_comorbidity'",FALSE
+6119,3,1,1,The patient describes feeling anxious about starting college.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+563,4,-1,[],,{,FALSE
+291,4,0,0,,"{'predicted_labels': [0],",FALSE
+4715,2,1,1,Patient describes having driven recklessly for years without accidents but has developed depression after being diagnosed with ADHD.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+7707,3,1,1,The patient describes feeling sad and crying after being insulted by someone online.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+5922,1,1,1,,"{'predicted_labels': [1],",TRUE
+169,4,-1,[],,{,FALSE
+267,4,1,1,The patient is describing signs and symptoms consistent with depression.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+5431,1,0,0;1,User reported feeling of anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+5942,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+3355,5,-1,[],,{,FALSE
+8278,2,-1,[],,{,FALSE
+315,4,1,1,Low Vitamin D levels have been associated with depression.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+4635,2,-1,[],,{,FALSE
+9494,0,0,0;5,,"{'predicted_labels': ['Anxiety', 'Video Game Addic",TRUE
+4067,1,0,0;1,,"{'predicted_labels': ['Anxiety', 'Depression'],",FALSE
+245,4,-1,[],,{,FALSE
+252,4,1,1,,"{``{“predicted_labels”: [1], “rationale”: “The pat",FALSE
+1111,4,-1,[],,{,FALSE
+4800,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+1713,0,-1,[],,{,FALSE
+50,3,4,4,,"{'predicted_labels': [4],",FALSE
+1835,0,-1,[],,{,FALSE
+7895,2,-1,[],,{,FALSE
+3383,5,1,1;5,Patient is chasing after a goal (trophies) which could be seen as obsessive behavior.,"{'predicted\_labels':[1,5],'is\_comorbidity':true,",FALSE
+7021,1,1,1,Patient mentions feeling down for no reason and having suicidal thoughts.,"{“predicted\_labels”:[1],“is\_comorbidity”:true,”r",TRUE
+4313,1,-1,[],,{,FALSE
+872,4,1,1,The patient describes feeling sad or depressed.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+1254,4,1,1,,"{'predicted_labels': [1],",FALSE
+4950,0,-1,[],,{,FALSE
+7666,3,-1,[],,{,FALSE
+9361,5,1,1,Patient describes feeling of depression， low self-esteem， lack of motivation， difficulty concentrating， suicidal ideation.,"{'predicted\_labels': [1],“is\_comorbidity”:'no','",FALSE
+8102,2,3,3,You shouldn’t worry about drinking water if you don’t drink any.,"{'predicted_labels': ['OCD'], 'is_comorbidity': fa",FALSE
+2098,0,-1,[],,{,FALSE
+6855,1,6,6,The patient presents with symptoms of anxiety.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+248,4,5,5,The patient describes symptoms of preoccupation with video games leading to neglect of real-life responsibilities.,"{“predicted_labels”: [5], “is_comorbidity”: false,",FALSE
+6560,5,2,2,User describes feeling sad， crying easily， loss of interest in hobbies or pleasure activities， poor appetite， insomnia， social withdrawal， fatigue， guilt， worthlessness， suicidal thoughts， and trouble concentrating.,"{'predicted_labels': [2], 'is_comorbidity': false,",FALSE
+1339,3,0,0;1,Symptoms suggest anxiety and depression.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+7016,1,-1,[],,{,FALSE
+2110,0,1,1;0,The patient describes feeling depressed due to their anxiety about starting school.,"{'predicted_labels': ['Depression', 'Anxiety'], 'i",FALSE
+1569,0,1,1,Patient mentioned being better than SSRI but also expressed caution about dependency.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+1726,0,-1,[],,{,FALSE
+8383,2,1,1,,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+6110,3,-1,[],,{,FALSE
+4395,2,1,1,Patient describes feeling down and depressed.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+2420,5,-1,[],,{,FALSE
+3045,5,0,0,,"{'predicted_labels': ['Anxiety'],",FALSE
+5502,1,-1,[],,{,FALSE
+3703,5,1,1,Patient describes feeling of anxiety， panic attacks， avoidance of situations due to fear.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+8735,2,1,1,Mentioned feeling down or depressed.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+9265,5,-1,[],,{,FALSE
+9807,5,2,2,User mentioned that they enjoy playing video games.,"{'predicted_labels': [2], 'is_comorbidity': false,",FALSE
+447,4,1,1,Lack of appetite and eating less due to loss of pleasure in activities.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+7893,2,-1,[],,{,FALSE
+8793,2,-1,[],,{,FALSE
+7541,3,-1,[],,{,FALSE
+1768,0,-1,[],,{,FALSE
+8251,2,1,1,,"{'predicted_labels': [1],",FALSE
+8456,2,-1,[],,{,FALSE
+3869,5,6,6,The patient describes feeling burnt out from video games after playing for long periods of time.,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+1655,0,-1,[],,{,FALSE
+3187,5,-1,[],,{,FALSE
+683,4,1,1,,"{'predicted_labels': [1],'is_comorbidity': false,'",FALSE
+4170,1,1,1,Patient mentions feeling depressed after losing friend to suicide.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+4477,2,0,0;2,,"{'predicted_labels': ['Anxiety', 'ADHD'],",FALSE
+461,4,1,1,,"{'predicted_labels': [1],",FALSE
+5763,1,-1,[],,{,FALSE
+6899,1,1,1,Depression,"{'predicted_labels': [1],'is_comorbidity': false,'",TRUE
+4502,2,1,1,,"{ 'predicted\_labels': [1],",FALSE
+7682,3,0,0,,"{ 'predicted\_labels': [0],",FALSE
+318,4,-1,[],,{,FALSE
+1145,4,0,0;1,Many people can use these drugs normally.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",FALSE
+6958,1,0,0;3,Multiple disorders mentioned.,"{'predicted_labels': ['Anxiety', 'OCD'], 'is_comor",FALSE
+1393,3,1,1,Ruminates about things she has done in her past (regrets) - major depressive disorder.,"{'predicted_labels': ['1'], 'is_comorbidity': fals",FALSE
+6622,4,-1,[],,{,FALSE
+1501,3,6,6,,"{ 'predicted\_labels': [6],",FALSE
+6407,5,6,6,Anxious behavior， difficulty concentrating due to distraction by thoughts of past event.,"{“predicted_labels”: [6], “is_comorbidity”: false,",FALSE
+376,4,1,1,,"{'predicted_labels': [1],",FALSE
+410,4,-1,[],,{,FALSE
+1660,0,0,0;1,Patient describes feeling of anxiety (palpitations) but no panic attacks or hyperventilation.,"{'predicted_labels': ['Anxiety', 'Depression'], 'i",TRUE
+3151,5,1,1,Patient describes feeling of depression.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+1623,0,-1,[],,{,FALSE
+5608,1,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+8531,2,6,6,Excessive Internet use (not video games) is associated with anxiety disorders.,"{'predicted\_labels': [6], 'is\_comorbidity': fals",FALSE
+6389,4,2,2,Anorexia nervosa is characterized by excessive weight loss due to self-starvation.,"{'predicted_labels': [2], 'is_comorbidity': false,",FALSE
+4932,0,1,1,,"{ 'predicted\_labels': [1],",FALSE
+8791,2,-1,[],,{,FALSE
+8896,1,-1,[],,{,FALSE
+8145,2,1,1,The patient is describing depressive symptoms such as irritability， social withdrawal， and restlessness.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+9614,1,6,6,,"{'predicted_labels': [6],",FALSE
+7672,3,-1,[],,{,FALSE
+1672,0,-1,[],,{,FALSE
+2358,5,-1,[],,{,FALSE
+8466,2,1,1,User mentioned feeling down for two years.,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+274,4,1,1,,"{'predicted_labels': [1],",FALSE
+2473,5,0,0;2,The patient is experiencing anxiety due to their recent diagnosis of attention deficit hyperactivity disorder.,"{'predicted_labels': ['Anxiety', 'ADHD'], 'is_como",FALSE
+5627,1,1,1,,"{'predicted_labels': [1],",TRUE
+4770,2,-1,[],,{,FALSE
+2107,0,-1,[],,{,FALSE
+7499,3,0,0,OCD is characterized by recurrent obsessions or repetitive compulsive behaviors. These thoughts (obsessions) can cause significant anxiety， and the individual may attempt to ignore or neutralize these thoughts through some other action (compulsion). This behavior causes significant distress.,"{'predicted_labels': [0], 'is_comorbidity': false,",FALSE
+4414,2,-1,[],,{,FALSE
+6903,0,-1,[],,{,FALSE
+8025,2,1,1,Depressive episode without psychotic features is more consistent with depression.,"{'predicted\_labels': [1], 'is\_comorbidity': fals",FALSE
+8789,2,1,1,,"{'predicted_labels': [1],",FALSE
+2417,5,6,6,,"{'predicted_labels': [6], 'is_comorbidity': false,",FALSE
+8770,2,-1,[],,{,FALSE
+2236,3,-1,[],,"{'predicted\_labels': \['ADHD\'], 'is\_comorbidity",FALSE
+3767,5,1,1,,"{'predicted_labels': [1],",FALSE
+9790,5,1,1,,"{'predicted_labels': [1], 'is_comorbidity': false,",FALSE
+9988,1,1,1,feelings of anxiety or depression,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+9964,4,1,1,The patient describes experiencing anxiety for over ten years， with a medication regimen of 80 mg per day. The patient also states that they have been diagnosed with depression.,"{'predicted\_labels': [1],“is\_comorbidity”: false",FALSE
+5556,1,1,1,Depressed mood， lack of pleasure， fatigue， guilt， suicidal ideation.,"{'predicted_labels': [1], 'is_comorbidity': false,",TRUE
+1383,3,6,6,,"{'predicted_labels': [6],",FALSE
+3101,5,1,1,Anorexia Nervosa (Mild),"{“predicted\_labels”: [1], “is\_comorbidity”: fals",FALSE
+3921,2,1,1,The patient is experiencing depression.,"{“predicted_labels”: [1], “is_comorbidity”: false,",FALSE
+7720,3,-1,[],,{,FALSE
+3194,5,-1,[],,{,FALSE
+1941,0,-1,[],,{,FALSE
+7113,1,1,1,The patient is experiencing depression.,"{“predicted\_labels”: [1], “is\_comorbidity”: fals",TRUE
